@@ -1,0 +1,13 @@
+{
+  "name": "okj-member-finder",
+  "main": "worker.js",
+  "compatibility_date": "2026-09-25",
+  "assets": {
+    "directory": ".",
+    "binding": "ASSETS"
+  },
+  "vars": {
+    "API_ORIGIN": "https://shop.ohkajhu.com",
+    "APP_VERSION": "1.6.1"
+  }
+}
